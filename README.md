@@ -27,14 +27,10 @@ Easy, Fast and Hastle Free Vaccine Slot Booking
 <img width=40% src="Screenshots/2.PNG"> &ensp;
 <img width=40% src="Screenshots/3.PNG"> &ensp;
 <img width=40% src="Screenshots/4.PNG"> &ensp;
-<img width=40% src="Screenshots/5.PNG"> &ensp;
 <img width=40% src="Screenshots/6.PNG"> &ensp;
 <img width=40% src="Screenshots/7.PNG"> &ensp;
+<img width=40% src="Screenshots/5.PNG"> &ensp;
 <img width=40% src="Screenshots/8.PNG"> &ensp;
-<img width=40% src="Screenshots/9.PNG"> &ensp;
-<img width=40% src="Screenshots/10.PNG"> &ensp;
-<img width=40% src="Screenshots/11.PNG"> &ensp;
-<img width=40% src="Screenshots/12.PNG"> &ensp;
 
 ## Tech Stack
 
