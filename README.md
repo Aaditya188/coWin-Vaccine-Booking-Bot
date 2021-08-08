@@ -7,7 +7,7 @@ Easy Vaccine Booking Facility During this Pandemic
 
 We NEXUS present before you,<b>"coWin Vaccine Booking Bot"</b>.
 
-<img width=40% src="Screenshots/logo.jpeg"> &ensp;
+<img width=40% src="Screenshots/logo.PNG"> &ensp;
 
 
 ## Our Idea
@@ -23,18 +23,18 @@ Easy, Fast and Hastle Free Vaccine Slot Booking
 
 <p align="left">  
 
-<img width=40% src="Screenshots/1.JPG"> &ensp;
-<img width=40% src="Screenshots/2.JPG"> &ensp;
-<img width=40% src="Screenshots/3.JPG"> &ensp;
-<img width=40% src="Screenshots/4.JPG"> &ensp;
-<img width=40% src="Screenshots/5.JPG"> &ensp;
-<img width=40% src="Screenshots/6.JPG"> &ensp;
-<img width=40% src="Screenshots/7.JPG"> &ensp;
-<img width=40% src="Screenshots/8.JPG"> &ensp;
-<img width=40% src="Screenshots/9.JPG"> &ensp;
-<img width=40% src="Screenshots/10.JPG"> &ensp;
-<img width=40% src="Screenshots/11.JPG"> &ensp;
-<img width=40% src="Screenshots/12.JPG"> &ensp;
+<img width=40% src="Screenshots/1.PNG"> &ensp;
+<img width=40% src="Screenshots/2.PNG"> &ensp;
+<img width=40% src="Screenshots/3.PNG"> &ensp;
+<img width=40% src="Screenshots/4.PNG"> &ensp;
+<img width=40% src="Screenshots/5.PNG"> &ensp;
+<img width=40% src="Screenshots/6.PNG"> &ensp;
+<img width=40% src="Screenshots/7.PNG"> &ensp;
+<img width=40% src="Screenshots/8.PNG"> &ensp;
+<img width=40% src="Screenshots/9.PNG"> &ensp;
+<img width=40% src="Screenshots/10.PNG"> &ensp;
+<img width=40% src="Screenshots/11.PNG"> &ensp;
+<img width=40% src="Screenshots/12.PNG"> &ensp;
 
 ## Tech Stack
 
