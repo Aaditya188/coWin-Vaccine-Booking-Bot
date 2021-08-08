@@ -40,5 +40,5 @@ Easy, Fast and Hastle Free Vaccine Slot Booking
 <h2 align= "left"><b>Demo Video and Website Link 👇</b></h2>
 
 - Website Link : <a href="https://www.cowinbot.nexustech.studio/" target="_blank">book your Slot Now</a>
-- Youtube Demo : <a href="">Click to watch full video</a>
+- Youtube Demo : <a href="https://youtu.be/v1Emv90q0go">Click to watch full video</a>
 - PPT Link : <a href="https://www.canva.com/design/DAEmfTOhy5s/K3Sug0xqGvt2ji4OmH_YPw/watch?utm_content=DAEmfTOhy5s&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">PPT is Here</a>
